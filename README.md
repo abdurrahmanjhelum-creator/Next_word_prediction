@@ -2,7 +2,7 @@
 
 This repository contains a single Python script that implements a simple next-word prediction model and a Tkinter GUI for interactive usage.
 
-Note: The repository name currently contains a typo (`pridiction` → `prediction`). Consider renaming the repo for clarity.
+
 
 ## What is included
 
